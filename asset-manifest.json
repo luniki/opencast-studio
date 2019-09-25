@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/opencast-studio/static/js/main.56637c19.chunk.js",
+    "main.js.map": "/opencast-studio/static/js/main.56637c19.chunk.js.map",
+    "runtime-main.js": "/opencast-studio/static/js/runtime-main.49acbf87.js",
+    "runtime-main.js.map": "/opencast-studio/static/js/runtime-main.49acbf87.js.map",
+    "static/js/2.8412786b.chunk.js": "/opencast-studio/static/js/2.8412786b.chunk.js",
+    "static/js/2.8412786b.chunk.js.map": "/opencast-studio/static/js/2.8412786b.chunk.js.map",
+    "index.html": "/opencast-studio/index.html",
+    "precache-manifest.74ffa40e534b910661bc1618badd4d97.js": "/opencast-studio/precache-manifest.74ffa40e534b910661bc1618badd4d97.js",
+    "service-worker.js": "/opencast-studio/service-worker.js"
+  }
+}
